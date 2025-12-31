@@ -60,7 +60,7 @@ Then open your browser and navigate to: `http://localhost:8000`
 ## 📁 Project Structure
 
 ```
-Protfolio/
+Portfolio/
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet
 ├── script.js           # JavaScript for interactivity
